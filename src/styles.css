@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(67, 190, 247);
+  border: solid;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+.App {
+  font-family: sans-serif;
+  border-radius: 5px 10px;
+  height: 90vh;
+}
+
+.list1 {
+  background-color: rgb(67, 190, 247);
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  height: 71vh;
+}
+
+.list2 {
+  background-color: rgb(67, 190, 247);
+  display: flex;
+}
+
+p {
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  border-radius: 2px 20px;
+}
+
+.dis1 {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dis2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dis3 {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.state {
+}
+
+.state button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/* .NotesApp {
+  text-align: ;
+} */
+
+#Notes input {
+  padding: 3px;
+  text-align: left;
+}
+
+#Notes Button {
+  border: black solid;
+  color: blue;
+  padding: 3px;
+  margin-left: 5px;
+  text-align: left;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+#delete {
+  margin: ;
+}
